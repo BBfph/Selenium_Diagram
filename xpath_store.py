@@ -1,0 +1,10 @@
+# easy to edit, if website changes xpaht-s
+Beoltottak_xpath = '//span[@id="content-beoltottak"]'
+Aktívfertőzöttek_videk_xpath = '//span[@id="content-fertozott-videk"]'
+Aktívfertőzöttek_budapest_xpath = '//span[@id="content-fertozott-pest"]'
+Gyógyultak_vidék_xpath = '//span[@id="content-gyogyult-videk"]'        
+Gyógyultak_budapest_xpath = '//span[@id="content-gyogyult-pest"]'
+Elhunytak_vidék_xpath = '//span[@id="content-elhunyt-videk"]'
+Elhunytak_budapest_xpath = '//span[@id="content-elhunyt-pest"]'
+Hatósági_házikarantén_xpath = '//span[@id="content-karantenban"]'
+Mintavétel_xpath = '//span[@id="content-mintavetel"]'

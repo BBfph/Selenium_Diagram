@@ -1,0 +1,64 @@
+{
+    "Data": [
+        {
+            "Time": "2021/09/13",
+            "Beoltottak": "5840588",
+            "Aktivfertozottek videk": "4798",
+            "Aktivfertozottek budapest": "1704",
+            "Gyogyultak videk": "639492",
+            "Gyogyultak budapest": "139513",
+            "Elhunytak videk": "24705",
+            "Elhunytak budapest": "5393",
+            "Hatosagi hazikaranten": "2630",
+            "Mintavetel": "6715858"
+        },
+        {
+            "Time": "2021/09/14",
+            "Beoltottak": "5843502",
+            "Aktivfertozottek videk": "4882",
+            "Aktivfertozottek budapest": "1753",
+            "Gyogyultak videk": "639570",
+            "Gyogyultak budapest": "139544",
+            "Elhunytak videk": "24709",
+            "Elhunytak budapest": "5393",
+            "Hatosagi hazikaranten": "2842",
+            "Mintavetel": "6724821"
+        },
+        {
+            "Time": "2021/09/15",
+            "Beoltottak": "5847002",
+            "Aktivfertozottek videk": "5044",
+            "Aktivfertozottek budapest": "1814",
+            "Gyogyultak videk": "639672",
+            "Gyogyultak budapest": "139578",
+            "Elhunytak videk": "24718",
+            "Elhunytak budapest": "5396",
+            "Hatosagi hazikaranten": "3286",
+            "Mintavetel": "6737713"
+        },
+        {
+            "Time": "2021/09/16",
+            "Beoltottak": "5850887",
+            "Aktivfertozottek videk": "5259",
+            "Aktivfertozottek budapest": "1870",
+            "Gyogyultak videk": "639807",
+            "Gyogyultak budapest": "139626",
+            "Elhunytak videk": "24721",
+            "Elhunytak budapest": "5397",
+            "Hatosagi hazikaranten": "3931",
+            "Mintavetel": "6753395"
+        },
+        {
+            "Time": "2021/09/17",
+            "Beoltottak": "5855039",
+            "Aktivfertozottek videk": "5373",
+            "Aktivfertozottek budapest": "1886",
+            "Gyogyultak videk": "640025",
+            "Gyogyultak budapest": "139752",
+            "Elhunytak videk": "24725",
+            "Elhunytak budapest": "5398",
+            "Hatosagi hazikaranten": "4605",
+            "Mintavetel": "6768975"
+        }
+    ]
+}
