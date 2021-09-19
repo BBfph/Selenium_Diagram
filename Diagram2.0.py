@@ -53,6 +53,13 @@ def draw_diagram(name_to_get):
         append_data = array_class_json[i].__dict__[name_to_get]
         current_arr.append(append_data)
     plt.plot(time_arr, current_arr, label = "line 1", marker='o')
+
+
+    # giving a title to my graph
+    plt.title(name_to_get)
+    # --- #
+    plt.xlabel("Dátom")
+    plt.ylabel("Ember")
     plt.show()
     
 
@@ -68,11 +75,11 @@ def options():
         "Hatosagi_hazikaranten",
         "Mintavetel"
     ]
-    for i in range(0, len(chouse_array)):
+    for i in range(1, len(chouse_array) + 0):
         print("({1}) {0}".format(chouse_array[i],i))
 
     id_name = input('Kérem adja meg a kategóriát kategoriat: ')
-    send = chouse_array[int(id_name)]
+    send = chouse_array[int(id_name) - 1]
     
     return send
 
