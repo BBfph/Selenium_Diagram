@@ -89,8 +89,8 @@ def main():
     id = options()
 
     draw_diagram(id)
+
 ##
-#
 ##
 if __name__ == '__main__':
     main()    
